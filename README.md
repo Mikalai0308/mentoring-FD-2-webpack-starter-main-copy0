@@ -1,1 +1,1 @@
-# mentoring-FD-2-webpack-starter-main-copy0
+# mentoring-simple-webpack-starter
