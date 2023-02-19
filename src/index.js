@@ -1,3 +1,5 @@
 import './main.scss';
 
-console.log('Hello IT-academy student 🚀');
+import './component/Card/Card';
+
+import './component/SearchDropdown/SearchDropdown';
