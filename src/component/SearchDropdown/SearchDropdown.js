@@ -45,7 +45,7 @@ constructor() {
                 <input type="search" class="form-control" placeholder="Search..." aria-label="Search">
                 <div class="list-container">
                 <it-search-list list='${JSON.stringify(this.data)}'></it-search-list>
-                <?div>
+                </div>
             </form>
         </div>
         `

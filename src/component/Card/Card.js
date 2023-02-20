@@ -2,7 +2,7 @@ import './Card.scss';
 
 class Card extends HTMLElement {
     disconnectedCallback() {
-        this.removeEventListener('clock', this.onRemove);
+        this.removeEventListener('click', this.onRemove);
     };
 
     onRemove = (evt) => {
